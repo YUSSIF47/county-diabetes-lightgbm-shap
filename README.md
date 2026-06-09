@@ -2,7 +2,7 @@
 
 **Replication code and processed dataset for:**
 
-> Yahaya Y, Saha PR, Khan S, Meia MA. *Predicting County-Level Diagnosed Diabetes Prevalence in the United States Using Explainable Gradient Boosting and SHAP-Based Geographic Interpretation.* Journal of Community Health (2026).
+> Yahaya Y, Khan S, Saha PR, Meia MA. *Predicting County-Level Diagnosed Diabetes Prevalence in the United States Using Explainable Gradient Boosting and SHAP-Based Geographic Interpretation.* Journal of Community Health (2026).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
