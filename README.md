@@ -2,7 +2,7 @@
 
 **Replication code and processed dataset for:**
 
-> Yahaya Y, Khan S, Saha PR, Meia MA. *Predicting County-Level Diagnosed Diabetes Prevalence in the United States Using Explainable Gradient Boosting and Geographic Interpretation.* Manuscript prepared for submission to PLOS Digital Health (2026).
+> Yahaya Y, Khan S, Saha PR, Meia MA. *Predicting County-Level Diagnosed Diabetes Prevalence in the United States Using Explainable Gradient Boosting and Geographic Interpretation.* Manuscript prepared for submission(2026).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
@@ -122,7 +122,7 @@ If you use this code or dataset, please cite:
 Yahaya Y, Khan S, Saha PR, Meia MA (2026). Predicting County-Level
 Diagnosed Diabetes Prevalence in the United States Using Explainable
 Gradient Boosting and Geographic Interpretation.
-PLOS Digital Health. https://doi.org/10.5281/zenodo.XXXXXXX
+ https://doi.org/10.5281/zenodo.XXXXXXX
 ```
 
 ---
